@@ -42,5 +42,5 @@ The goal of this project is to automate the process of adding complex German sen
 
 1. **Clone the Repository**:
    ```bash
-   git clone https:https://github.com/DomGoi/Portfolio-projects/Anki Uploader/main
+   git clone [https:https://github.com/DomGoi/Portfolio-projects/Anki Uploader/main](https://github.com/DomGoi/Portfolio-projects/tree/384bee23358497a655a90047e9f13c930bfc667c/Anki%20Uploader)
    cd german-sentence-inserter-bot
